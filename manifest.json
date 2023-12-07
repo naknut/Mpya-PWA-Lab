@@ -1,0 +1,21 @@
+{
+    "name": "Mpya PWA",
+    "short_name": "Mpya",
+    "start_url": "index.html",
+    "scope": "./",
+    "icons": [
+        {
+            "src": "images/mpya-120.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "images/mpya-180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#e24585",
+    "background_color": "#e24585",
+    "display": "standalone"
+}
